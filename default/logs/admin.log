@@ -1,0 +1,10 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6645 Starting - 8/28/2023, 12:11:44 AM
+================================================================
+[00:12:03][zerik1] created admins file
+[00:12:19][zerik1] Changing global settings via setup stepper and started Deployer.
+[00:12:21][zerik1] Setting recipe.
+[00:13:03][zerik1] Running recipe.
+[00:16:10][zerik1] Completed and committed server deploy.
+[00:17:47][zerik1] executed "STOP SERVER"
